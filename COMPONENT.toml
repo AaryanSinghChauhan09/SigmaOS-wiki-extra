@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-wiki-extra"
+tier = 4
+description = "Extended wiki documentation search, cross-reference indexer, and markdown parser"
+contracts = ['wiki-extra-indexer', 'cross-ref-engine', 'doc-search-shim']
+upstream_inspirations = ['https://github.com/omacom/omarchy']
